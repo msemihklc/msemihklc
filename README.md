@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**msemihklc/msemihklc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Lorem picsum gorsel](2.jpg)
 
-Here are some ideas to get you started:
+## 📌 GitHub Stats And Top Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=sahin160&show_icons=true&count_private=true&hide=contribs,issues" alt="sahin160's github stats" />
+  
+</p>
+
+# Merhabalar 
+Ben Mustafa  .Atatürk üniversitesi elektrik elektronik mühendisliği 3. sınıf öğrencisiyim . elektrik elektronik üzerine çocukluğumdan bu yana ilgi duydum . Beni heyecanlandıran en önemli konular ise Yapay zeka ve robotik . Bu alanda kendimi geliştirmek ve daha çok biligiye erişebilmek için github kullanıyorum .
+Müzik dinlemeyi ve yeni yerler gezmeyi çok severim.  
+
+## iletişim bilgilerim 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor)  [link](https://shndgd2828@gmail.com)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/aydogdusahin/)
+
+[![Linkedin Badge](https://img.shields.io/badge/sahin160-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahin-aydogdu/)
