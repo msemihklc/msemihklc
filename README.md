@@ -1,5 +1,5 @@
 
-![Lorem picsum gorsel](2.jpg)
+![Lorem picsum gorsel](https://github.com/msemihklc/msemihklc/blob/main/indir.jpg)
 
 ## 📌 GitHub Stats And Top Languages
 
