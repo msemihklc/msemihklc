@@ -9,7 +9,7 @@
 </p>
 
 # Merhabalar 
-Ben Mustafa  .Atatürk üniversitesi elektrik elektronik mühendisliği 2. sınıf öğrencisiyim . elektrik elektronik üzerine çocukluğumdan bu yana ilgi duydum . Beni heyecanlandıran en önemli konular ise Yapay zeka ve robotik . Bu alanda kendimi geliştirmek ve daha çok biligiye erişebilmek için github kullanıyorum .
+Ben Mustafa Semih .Atatürk üniversitesi elektrik elektronik mühendisliği 2. sınıf öğrencisiyim . elektrik elektronik üzerine çocukluğumdan bu yana ilgi duydum . Beni heyecanlandıran en önemli konular ise Yapay zeka ve robotik . Bu alanda kendimi geliştirmek ve daha çok biligiye erişebilmek için github kullanıyorum .
 Müzik dinlemeyi ve yeni yerler gezmeyi çok severim.  
 
 ## iletişim bilgilerim 
